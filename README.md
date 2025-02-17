@@ -20,6 +20,7 @@ Satışların yoğun olduğu coğrafi bölgeleri belirleyerek:
 Bu bölgelerde hedefli pazarlama kampanyaları düzenleyin.
 
 Lojistik ve teslimat süreçlerini optimize ederek müşteri memnuniyetini artırın.
+
 4. Müşteri Sadakati ve CLV Artırma
 Müşteri yaşam boyu değerini (CLV) artırmak için:
 
