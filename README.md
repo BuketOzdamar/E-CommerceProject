@@ -1,6 +1,7 @@
 ## Dashboard: [https://public.tableau.com/shared/ZKZ26S8RF?:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/E-Commerce_RFM_CLV_Analysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 1. Müşteri Segmentasyonu ve Hedefleme
+   
 RFM analizi ile belirlenen müşteri segmentlerine yönelik kişiselleştirilmiş pazarlama kampanyaları oluşturun. Örneğin:
 
 VIP Müşteriler için özel indirimler ve promosyonlar sunarak onları elde tutma stratejileri geliştirin.
